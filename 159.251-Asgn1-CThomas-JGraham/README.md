@@ -38,3 +38,20 @@ Minor save edit: 636d58eb9586daa656103796b1f397b780a7acab
 Time/Date/prting added: 093ffe3ebbe23665d00358d687ae99fbcb81f1ec
 
 Edit menu/improved search: aafba8bf655ed8d6df1493227b8147c1b8cfeaa2
+
+Commit IDs for Jade Graham:
+
+Initial program structure: 612459ef08a199c631c138a9d11bd0343feb73fd
+
+Menu creation: 49796067602b117575d8f2e4828b95d4a2c8909e
+
+Ajusted print: 12ee16a1758efa54ebd03cfed4b18a5a9f5df929
+
+Open odt files: f0e3ed96c9e6673d5bf2225fc82f04a02ec4a213
+
+
+
+
+
+
+

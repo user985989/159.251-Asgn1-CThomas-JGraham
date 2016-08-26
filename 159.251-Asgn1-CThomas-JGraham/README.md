@@ -24,3 +24,12 @@ In the Help menu:
 -About contains the current BSD licence for this program.
 
 Thank you and Enjoy :)
+
+Commit IDs for Conrad Thomas:
+
+Initial creation: c037505c39852e5356e0209db69a7e477167db23
+Early GUI attempt: fb8515efadc790407e1f8fad37e80e11f595fcc0
+Searching/saving added: 6ed7a6dbf0efb5c5c06190bf45bf3616efdf5cde
+Minor save edit: 636d58eb9586daa656103796b1f397b780a7acab
+Time/Date/prting added: 093ffe3ebbe23665d00358d687ae99fbcb81f1ec
+Edit menu/improved search: aafba8bf655ed8d6df1493227b8147c1b8cfeaa2

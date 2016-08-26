@@ -35,13 +35,13 @@ def open():
 
 saved=False
 def save():
+    global saved
     file = tkFileDialog.asksaveasfile(mode='w')
     if file != None:
+        saved=True
         text = textArea.get('1.0', END+'-1c') # save all text in the textArea until the (end - 1 character)
         file.write(text)
         file.close()
-    global saved
-    saved=True
 
 
 def toPrinter():
